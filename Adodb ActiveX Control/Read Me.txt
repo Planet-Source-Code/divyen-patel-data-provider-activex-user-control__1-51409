@@ -1,0 +1,6 @@
+This Control is Data Provider Control Providing Simple Binding with the User Control; this is the best example of Data Binding User Control, and best for beginners of ActiveX Control Designer.
+
+
+Go through the Code and Learn it …
+
+Do not forget to Vote me and also keep rating my Award Wining Code which is at 2nd in Hall of Fame.
